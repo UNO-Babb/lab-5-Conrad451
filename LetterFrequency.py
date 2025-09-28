@@ -1,6 +1,6 @@
 #LetterFrequency.py
-#Name:
-#Date:
+#Name: Connor Pell
+#Date: September 28th, 2025
 #Assignment:
 
 #This program will create a CSV file of frequencies based on a text file.
